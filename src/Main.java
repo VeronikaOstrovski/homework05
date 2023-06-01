@@ -1,3 +1,4 @@
+// Task 1
 public class Main {
 
     public static void main(String[] args) {
@@ -8,6 +9,17 @@ public class Main {
         square.figureSum(2, 2, 2);
         circle.figureSum(4, 4, 4);
 
+
+// Task 2
+        Transport bus = new Transport();
+        bus.move();
+        bus.options();
+        bus.setName("Tallinn");
+        bus.setQuantityPlace(37);
+        bus.getName();
+        bus.getQuantityPlace();
+
+        // Task 3
+        
     }
 }
-
