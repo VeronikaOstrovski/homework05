@@ -16,10 +16,10 @@ public class Main {
         bus.options();
         bus.setName("Tallinn");
         bus.setQuantityPlace(37);
-        bus.getName();
-        bus.getQuantityPlace();
+        String name = bus.getName();
+        int quantityPlace = bus.getQuantityPlace();
 
         // Task 3
-        
+
     }
 }
