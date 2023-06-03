@@ -16,6 +16,7 @@ public class Figure {
 
     public int figureSum(double height, double width, double length) {
         double square = this.height + this.width + this.length;
+        System.out.println(square);
         int square1 = (int) square;
         return square1;
     }

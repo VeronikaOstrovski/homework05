@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d1763ab-615a-4462-bb35-984a0b84e56f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685655331579</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task 4 done">
+      <created>1685825309911</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685825309911</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -96,7 +102,8 @@
     <MESSAGE value="Task 2 done" />
     <MESSAGE value="Changed fields with getter for: &#10;String name = bus.getName();&#10;inf quantityPlace = bus.getQuantityPlace()" />
     <MESSAGE value="Task 3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 done" />
+    <MESSAGE value="Task 4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -113,7 +120,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Figure.java</url>
-          <line>25</line>
+          <line>26</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
